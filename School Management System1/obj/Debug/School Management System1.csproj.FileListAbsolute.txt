@@ -1,0 +1,21 @@
+C:\Users\Dell\source\repos\School Management System1\bin\Debug\School Management System1.exe.config
+C:\Users\Dell\source\repos\School Management System1\bin\Debug\School Management System1.exe
+C:\Users\Dell\source\repos\School Management System1\bin\Debug\School Management System1.pdb
+C:\Users\Dell\source\repos\School Management System1\obj\Debug\School Management System1.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\School Management System1\obj\Debug\School Management System1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\School Management System1\obj\Debug\School_Management_System1.Loading.resources
+C:\Users\Dell\source\repos\School Management System1\obj\Debug\School_Management_System1.Login.resources
+C:\Users\Dell\source\repos\School Management System1\obj\Debug\School_Management_System1.Menu.resources
+C:\Users\Dell\source\repos\School Management System1\obj\Debug\School_Management_System1.Properties.Resources.resources
+C:\Users\Dell\source\repos\School Management System1\obj\Debug\School Management System1.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\School Management System1\obj\Debug\School Management System1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\School Management System1\obj\Debug\School Management System1.exe
+C:\Users\Dell\source\repos\School Management System1\obj\Debug\School Management System1.pdb
+C:\Users\Dell\source\repos\School Management System1\bin\Debug\Guna.UI2.dll
+C:\Users\Dell\source\repos\School Management System1\obj\Debug\School Management System1.csproj.CopyComplete
+C:\Users\Dell\source\repos\School Management System1\obj\Debug\School_Management_System1.Attendance.resources
+C:\Users\Dell\source\repos\School Management System1\obj\Debug\School_Management_System1.Dashboard.resources
+C:\Users\Dell\source\repos\School Management System1\obj\Debug\School_Management_System1.Events.resources
+C:\Users\Dell\source\repos\School Management System1\obj\Debug\School_Management_System1.Fees.resources
+C:\Users\Dell\source\repos\School Management System1\obj\Debug\School_Management_System1.Teachers.resources
+C:\Users\Dell\source\repos\School Management System1\obj\Debug\School_Management_System1.Student.resources
